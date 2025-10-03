@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+**/node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Build outputs
+dist/
+build/
+frontend/build/
+backend/dist/
+
+# Uploads and runtime files
+uploads/
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+
+# Packages
+*.tgz
